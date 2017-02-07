@@ -1,0 +1,20 @@
+esxi已经安装完成(5, 5.5 , 6.0)
+esxi的ssh服务开通
+vcenter已经部署完成(5, 5.5 , 6.0)
+vcenter序列号已经添加(可选)
+vcenter插件已经正确加载(可选)
+vcenter可以管理esxi设备
+IP网段已经申请
+IP网段对应vlan已经配置到物理交换机
+IP网段路由关系已经打通
+esxi的网卡连接到物理交换机为trunk模式
+部署云平台的IP段需要和所有网络互通
+Linux OS已经安装完成(3台vm设备)
+防火墙已经关闭
+IP地址已经配置
+Selinux已经禁用
+portal组件部署是否完成
+activemq部署是否完成
+automation部署是否完成
+image是否部署完成
+scripts是否部署完成
